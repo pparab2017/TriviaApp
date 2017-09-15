@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="welcomeTag">Welcome to Trivia App</string>
+    <string name="btnExitTag">Exit</string>
+    <string name="btnTriviaStart">Start Trivia</string>
+    <string name="btnQuitTag">Quit</string>
+    <string name="btnNextTag">Next</string>
+    <string name="lblStatsTag">Trivia Stats</string>
+    <string name="btnTryAgainTag">Try Again</string>
+    <string name="lblScoreTag">Correct Answers</string>
+</resources>
